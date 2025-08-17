@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background-color: goldenrod;
+}
+
+.box {
+    background-color: rgba(0, 0, 0, 0.2);
+    height: 400px;
+    width: 400px;
+    justify-content: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    border-radius: 30px;
+}
+
+img {
+    width: 250px;
+    border-radius: 10px;
+}
+
+p {
+    margin-top: 10px;
+    font-size: 25px;
+    font-weight: 800;
+
+}
